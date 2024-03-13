@@ -1,0 +1,52 @@
+component_id,ad_id,status,comp_date,exec_approval,,component_id,ad_id,status,comp_date,exec_approval
+40,10,work in progress,,,,20,24,work in progress,,
+10,11,work in progress,,,,60,25,complete,11/14/2021,
+20,12,complete,11/24/2021,Y,,30,26,complete,3/5/2022,Y
+10,13,complete,11/19/2021,,,50,27,complete,1/20/2022,
+10,14,complete,3/10/2022,,,20,28,complete,11/17/2021,Y
+40,15,complete,2/28/2022,Y,,20,29,complete,12/28/2021,
+50,16,work in progress,,,,80,30,work in progress,,
+20,17,complete,1/4/2022,Y,,60,31,complete,2/1/2022,Y
+20,18,complete,4/5/2022,Y,,20,32,work in progress,,
+20,19,complete,10/30/2021,Y,,20,33,complete,2/17/2022,
+80,20,work in progress,,,,30,34,complete,2/11/2022,Y
+50,21,complete,1/6/2022,Y,,20,35,work in progress,,
+10,22,work in progress,,,,60,36,work in progress,,
+40,23,work in progress,,,,70,37,complete,2/20/2022,Y
+10,24,work in progress,,,,10,38,work in progress,,
+50,25,complete,11/19/2021,,,10,39,work in progress,,
+20,26,work in progress,,,,20,40,work in progress,,
+40,27,complete,12/22/2021,,,60,41,complete,1/13/2022,Y
+10,28,complete,1/6/2022,Y,,20,42,complete,2/23/2022,Y
+10,29,complete,2/26/2022,Y,,20,43,complete,2/19/2022,
+50,30,work in progress,,,,90,44,complete,1/24/2022,Y
+40,31,complete,1/4/2022,Y,,50,45,complete,3/20/2022,Y
+10,32,complete,11/1/2021,,,60,46,work in progress,,
+10,33,complete,11/14/2021,Y,,60,10,work in progress,,
+10,34,complete,11/23/2021,Y,,30,11,complete,3/10/2022,Y
+10,35,work in progress,,,,30,13,complete,12/19/2021,Y
+50,36,work in progress,,,,60,15,complete,2/16/2022,
+40,37,work in progress,,,,70,16,complete,1/22/2022,
+20,38,work in progress,,,,60,20,work in progress,,
+20,39,complete,3/7/2022,,,80,21,work in progress,,
+10,40,complete,3/31/2022,,,30,22,work in progress,,
+50,41,work in progress,,,,60,23,work in progress,,
+10,42,work in progress,,,,30,24,complete,1/29/2022,Y
+10,43,complete,2/17/2022,Y,,70,25,work in progress,,
+40,44,complete,12/1/2021,Y,,60,27,complete,12/18/2021,Y
+40,45,complete,11/15/2021,Y,,30,28,work in progress,,
+50,46,complete,1/10/2022,,,30,29,complete,3/26/2022,
+50,10,complete,1/13/2022,Y,,30,32,work in progress,,
+20,11,complete,3/17/2022,Y,,30,33,complete,3/16/2022,Y
+30,12,complete,3/18/2022,Y,,30,35,work in progress,,
+20,13,complete,11/9/2021,,,70,36,complete,3/13/2022,
+20,14,work in progress,,,,80,37,work in progress,,
+50,15,work in progress,,,,90,41,work in progress,,
+60,16,complete,2/6/2022,Y,,60,44,complete,1/25/2022,Y
+30,17,complete,4/10/2022,,,60,45,complete,1/5/2022,Y
+30,18,work in progress,,,,90,11,work in progress,,
+30,19,work in progress,,,,70,15,work in progress,,
+90,20,complete,11/7/2021,Y,,90,21,complete,4/1/2022,
+60,21,work in progress,,,,70,27,work in progress,,
+20,22,complete,11/7/2021,Y,,80,27,work in progress,,
+50,23,work in progress,,,,90,27,complete,12/21/2021,Y

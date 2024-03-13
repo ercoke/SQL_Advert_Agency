@@ -1,0 +1,38 @@
+AD_ID,AD_CODE,CAMPAIGN_ID,AD_TYPE,AD_DESC,AD_AUDIENCE
+10,A10,100,television,Commercial showing holiday hot holiday toys,Children's tv
+11,A11,101,web,web ad showing new computers,Tech bloggers
+12,A12,102,poster,poster highlighting the new dinner special,Mall shoppers
+13,A13,103,magazine,full page ad showing all cable sizes,Industrial magazines
+14,A14,104,magazine,1/2 page ad highlighting paper specials,Office supply magazines
+15,A15,105,television,30 second commercial advertising all new shows,Prime time television viewers
+16,A16,106,television,30 second commercial showing black Friday tech specials,Holiday shoppers
+17,A17,107,leaflet,leaflet highlighting college apparel,Back-to-school shoppers
+18,A18,108,leaflet,full page ad advertising legal services,Law journals
+19,A19,109,magazine,full page ad showing titanium underwater pressure vessels,Industrial magazines
+20,A20,110,television,30 minute commercial advertising no interest loan,Adult TV
+21,A21,111,television,30 second commercial advertising the fall line up,Adult TV
+22,A22,112,magazine,full page ad showing how duck soap is saving the planet,Women's Magazines
+23,A23,113,television,30 second commercial about how this taco will change your life completely,Adult TV
+24,A24,114,magazine,full page ad highlighting the new cheesy crust pizza,Men's magazine
+25,A25,115,radio,30 second radio spot advertising energy discounts during non peak times,Daily commuters
+26,A26,116,leaflet,half page ad highlighting the side effects of this antipsychotic,Psychology journals
+27,A27,117,cinema,30 second ad showing how cool these glasses are,Sci-fi movie fans
+28,A28,118,magazine,1/2 page ad showing how this cow cleans the air,Climate journal
+29,A29,119,web,30 second web ad describing a new diet fad,Chronic dieters
+30,A30,120,television,a commercial showing a trashy barbie being accepted by the posh crowd,Children's tv
+31,A31,121,cinema,30 second ad advertising the famous pub quiz,Movie-goers
+32,A32,122,newspaper,full page ad advertising must-go printers,Sunday ad's
+33,A33,123,leaflet,leaflet highlighting computer sales for the week,Holiday shoppers
+34,A34,124,poster,poster showing college apparel deals,Uni students moving into dorms
+35,A35,125,magazine,full page ad advertising high temperature backflow prevention valves,Industrial magazines
+36,A36,126,radio,30 second ad about community and FBT's low interest rates,evening commuters
+37,A37,127,television,30 second commercial advertising new fall shows,Sunday night tv watchers
+38,A38,128,magazine,full page ad advertising shampoo,Women's Magazines
+39,A39,129,magazine,1/2 page ad that shows half of a taco because it's half the price of a dollar,Men's magazine
+40,A40,130,leaflet,leaflet shaped like a heart brownie pizza for the cheap romantic,In-mail coupons
+41,A41,131,web,30 second ad describing the discount for not using power during the day,youtube video viewers
+42,A42,132,magazine,full page ad telling the 55+ crowd that truth serum will solve all of their problems,AARP members
+43,A43,133,leaflet,advertising all different brands of permanent contacts available from the SeeGood parent company,People at the eye doctors
+44,A44,134,television,30 second ad telling people who were already planning on watching the superbowl why they should watch the superbowl.,Football Fans
+45,A45,135,television,30 second ad inciting violence against people who like pineaplle on pizza,Pineapple haters
+46,A46,136,radio,30 second radio spot explaining why this sports drink will heal your internal organs.,dehydrated athletes

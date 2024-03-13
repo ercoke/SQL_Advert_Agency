@@ -1,0 +1,49 @@
+meeting_id,meeting_date,meeting_time,campaign_id,meeting_duration,meeting_purpose,meeting_location,location_address,room_details
+1,10/27/2021,800,112,94,Initial campaign discussion,Client,"201 E Randolph St, Chicago, IL 60602",2323
+2,10/27/2021,1000,100,86,,Headura,,
+3,10/28/2021,1330,113,118,,Client,"17 Brendala Ln., Phoenix, AZ 85001",8388
+4,10/29/2021,1245,103,116,,Client,"117 Sandusky St, Pittsburgh, PA 15212",7216
+5,10/30/2021,1150,108,45,,Client,"351 Riverside Dr, New York, NY 10025",F37
+6,10/31/2021,1430,105,83,,Headura,,
+7,10/31/2021,1630,104,38,,Headura,,
+8,10/31/2021,1700,110,65,,Headura,,
+9,11/1/2021,1800,110,76,Initial campaign discussion,Headura,,
+10,11/5/2021,1615,102,36,,Headura,,
+11,11/12/2021,1525,100,88,,Client,"200 N 4th St., St. Louis, MO 63102",2828
+12,11/13/2021,1430,100,47,,Headura,,
+13,11/14/2021,1345,100,67,,Client,"200 N 4th St., St. Louis, MO 63102",2828
+14,11/14/2021,1215,131,75,,Headura,,
+15,11/15/2021,1204,120,73,,Headura,,
+16,11/16/2021,925,106,15,,Client,"4000 Warner Blvd bldg 08, Burbank, CA 91522",2
+17,11/16/2021,1045,108,103,,Client,"351 Riverside Dr, New York, NY 10025",F27
+18,11/16/2021,900,110,21,,Headura,,
+19,11/16/2021,1500,101,28,,Headura,,
+20,11/17/2021,1230,119,107,,Headura,,
+21,11/18/2021,1500,120,61,,Client,"200 N 4th St., St. Louis, MO 63102",2828
+22,11/19/2021,1450,121,26,,Client,"193 Salem St, Boston, MA 02113",2314
+23,11/20/2021,1100,111,67,,Client,"88 Red Hot Lane, Los Angeles, CA 98210",986
+24,11/28/2021,1200,106,119,Budgeting constraints,Headura,,
+25,11/29/2021,1445,114,100,,Headura,,
+26,11/30/2021,1300,116,114,,Client,"1 Psych Blvd, Santa Barbara, CA 93101",SG29
+27,12/1/2021,800,101,69,,Client,"3 Hermann Museum Circle Dr, Houston, TX 77004",EW3317
+28,12/2/2021,1330,104,81,,Headura,,
+29,1/1/2022,1545,115,29,,Headura,,
+30,1/12/2022,915,109,16,Placement not available,Headura,,
+31,1/13/2022,1145,118,25,,Headura,,
+32,1/26/2022,1200,135,101,,Headura,,
+33,2/4/2022,900,107,16,,Headura,,
+34,2/5/2022,1045,117,66,,Headura,,
+35,2/24/2022,1300,122,109,,Headura,,
+36,2/25/2022,1120,136,89,Campaign regroup,Headura,,
+37,3/8/2022,1345,109,67,,Headura,,
+38,3/9/2022,845,124,28,,Headura,,
+39,3/15/2022,1300,130,37,,Client,"5 Elvis Presley Blvd, Memphis, TN 38116",The Jungle Room
+40,3/16/2022,945,125,37,,Client,"1060 Ocean Dr, Miami Beach, FL, 33139",Pittbull
+41,3/22/2022,1600,126,62,Marketing Meeting,Client,"1600 Pennsylvania Avenue NW, Washington, D.C. 20500",C00
+42,3/23/2022,1645,133,71,,Client,"22 SW 3rd Ave, Portland, OR 97204",25
+43,3/24/2022,1400,127,29,,Client,"88 Red Hot Lane, Los Angeles, CA 98210",212
+44,3/25/2022,800,123,61,,Client,"4000 Warner Blvd bldg 08, Burbank, CA 91522",525
+45,3/26/2022,1115,134,63,,Headura,,
+46,3/27/2022,1415,128,119,,Headura,,
+47,3/28/2022,1325,129,78,,Headura,,
+48,3/29/2022,1015,132,113,,Headura,,

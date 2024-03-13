@@ -1,0 +1,38 @@
+campaign_id,campaign_code,campaign_name,campaign_start_date,campaign_end_date,campaign_prodcut,conract_ref_code
+100,C100,Christmas Special,12/5/2021,8/8/2022,,CR100
+101,C101,Big Tech Ad,12/14/2021,8/10/2022,Big Tech Sales,CR101
+102,C102,Old Horse 2-for-2,12/9/2021,8/5/2022,,CR102
+103,C103,Trolley Cables,12/17/2021,11/20/2022,,CR103
+104,C104,Dunder Mifflin Paper,2/24/2022,3/27/2022,,CR104
+105,C105,FBC Fall Line Up,11/28/2021,3/9/2022,New television shows,CR105
+106,C106,Buy More Black Friday,5/27/2022,10/14/2022,,CR106
+107,C107,Gameday Gear,6/5/2022,10/8/2022,College apparel,CR107
+108,C108,PSL Attorneys,6/3/2022,10/9/2022,,CR108
+109,C109,Ocean Equipment Piping,4/17/2022,6/8/2022,,CR109
+110,C110,FBT No Interest Loan,3/15/2022,4/25/2022,No Interest Loan,CR110
+111,C111,Inet Fall Line up,2/24/2022,8/24/2022,,CR111
+112,C112,Duck soap,11/4/2021,9/12/2022,,CR112
+113,C113,Crazy Loco Taco,10/26/2021,4/11/2022,,CR113
+114,C114,Cheesy crust supreme,11/5/2021,10/4/2022,,CR114
+115,C115,Fall discount,12/27/2021,7/23/2022,,CR115
+116,C116,Crazy Anti-psychotic,12/29/2021,7/31/2022,,CR116
+117,C117,Frameless Bifocals,4/17/2022,6/7/2022,,CR117
+118,C118,Smelly Cow Clean Air,1/2/2022,7/15/2022,No bull air purifiers,CR118
+119,C119,Heal Fast Nutrition,1/9/2022,7/23/2022,,CR119
+120,C120,Galveston Barbie,3/1/2022,6/2/2022,Galveston's trashiest of barbie dolls,CR120
+121,C121,Old Horse Family Night,12/10/2021,2/16/2022,,CR121
+122,C122,Sabre Printers,11/27/2021,6/15/2022,,CR122
+123,C123,Buy More Macrosoft,12/4/2021,6/19/2022,,CR123
+124,C124,Back to School Special,6/28/2022,9/5/2022,,CR124
+125,C125,Ocean Equipment Valves,6/19/2022,8/28/2022,Underwater return valves,CR125
+126,C126,FBT Family,6/30/2022,10/19/2022,,CR126
+127,C127,Inet New Show Sunday,12/10/2021,8/12/2022,,CR127
+128,C128,Pantoon Lucious Locks,11/9/2021,2/26/2022,Cheap shampoo made to look fancy,CR128
+129,C129,1/2 dollar tacos,12/9/2021,8/2/2022,,CR129
+130,C130,Valenties Brownie Pizza,12/19/2021,8/10/2022,,CR130
+131,C131,Power Free Days,12/16/2021,9/14/2022,Discounted electricity rates,CR131
+132,C132,Verituserum,12/11/2021,9/12/2022,,CR132
+133,C133,Permanent Contacts,12/16/2021,9/22/2022,Contacts that you never take out,CR133
+134,C134,Inet Superbowl,4/25/2022,9/21/2022,,CR134
+135,C135,Anti-Pineapple Possee,12/14/2021,3/16/2022,,CR135
+136,C136,Heal Fast Hydration,1/7/2022,9/10/2022,Permanent Sports drink,CR136
